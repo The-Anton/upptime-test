@@ -22,17 +22,19 @@
     "url": "https://shekhar-kumar.web.app/",
     "icon": "https://favicons.githubusercontent.com/shekhar-kumar.web.app",
     "slug": "portfolio-shekhar-kumar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 72,
-    "timeWeek": 76,
-    "timeMonth": 107,
-    "timeYear": 107,
-    "dailyMinutesDown": {}
+    "time": 111,
+    "timeDay": 114,
+    "timeWeek": 86,
+    "timeMonth": 111,
+    "timeYear": 111,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
