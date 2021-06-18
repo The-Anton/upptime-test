@@ -4,7 +4,7 @@
     "url": "http://shekhar.aitoss.club/",
     "icon": "https://favicons.githubusercontent.com/shekhar.aitoss.club",
     "slug": "portfolio-oss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 792,
     "timeMonth": 371,
     "timeYear": 371,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-18": 0
+    }
   },
   {
     "name": "Portfolio@Shekhar-Kumar",
