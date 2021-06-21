@@ -10,11 +10,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 583,
-    "timeDay": 91,
-    "timeWeek": 1336,
-    "timeMonth": 583,
-    "timeYear": 583,
+    "time": 567,
+    "timeDay": 134,
+    "timeWeek": 1314,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2021-06-18": 24
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/shekhar-kumar.web.app",
     "slug": "portfolio-shekhar-kumar",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 102,
-    "timeDay": 132,
-    "timeWeek": 82,
-    "timeMonth": 102,
-    "timeYear": 102,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 104,
+    "timeDay": 158,
+    "timeWeek": 95,
+    "timeMonth": 104,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2021-06-08": 32
     }
