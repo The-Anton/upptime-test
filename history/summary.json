@@ -6,9 +6,9 @@
     "slug": "portfolio-oss",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 458,
     "timeDay": 3461,
@@ -16,7 +16,7 @@
     "timeMonth": 456,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2021-09-14": 28,
+      "2021-09-14": 19,
       "2021-06-18": 24
     }
   },
