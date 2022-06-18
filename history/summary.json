@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/shekhar.aitoss.club",
     "slug": "portfolio-oss",
     "status": "down",
-    "uptime": "34.21%",
+    "uptime": "34.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.73%",
+    "uptimeYear": "30.45%",
     "time": 857,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 965,
+    "timeYear": 943,
     "dailyMinutesDown": {
-      "2022-06-17": 68,
+      "2022-06-18": 73,
+      "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
@@ -273,8 +274,7 @@
       "2021-10-01": 62,
       "2021-09-17": 143,
       "2021-09-15": 85,
-      "2021-09-14": 19,
-      "2021-06-18": 24
+      "2021-09-14": 19
     }
   },
   {
@@ -289,8 +289,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 97,
-    "timeWeek": 141,
+    "timeDay": 86,
+    "timeWeek": 124,
     "timeMonth": 116,
     "timeYear": 133,
     "dailyMinutesDown": {
