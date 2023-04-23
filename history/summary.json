@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shekhar.aitoss.club.ico",
     "slug": "portfolio-oss",
     "status": "down",
-    "uptime": "18.98%",
+    "uptime": "18.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2023-04-22": 60,
+      "2023-04-23": 65,
+      "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
@@ -379,8 +380,7 @@
       "2022-04-27": 1440,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
-      "2022-04-24": 1440,
-      "2022-04-23": 1440
+      "2022-04-24": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 104,
-    "timeWeek": 96,
-    "timeMonth": 90,
-    "timeYear": 111,
+    "timeDay": 150,
+    "timeWeek": 103,
+    "timeMonth": 91,
+    "timeYear": 110,
     "dailyMinutesDown": {}
   }
 ]
